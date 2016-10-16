@@ -23,7 +23,7 @@
   "homepage": "https://github.com/JSSDKCN/node-alipay",
   "dependencies": {
     "request": "^2.69.0",
-    "ursa": "^0.9.1",
+    "ursa": "^0.9.4",
     "xml2js": "^0.4.16"
   },
   "devDependencies": {
